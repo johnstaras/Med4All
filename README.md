@@ -1,2 +1,2 @@
 # johnstaras
-The project that we are working its called Med4All . 
+The project that we are working is called Med4All . 

@@ -1,0 +1,13 @@
+C:\Users\john\Desktop\visual studio\github\Syntagh\bin\Debug\Syntagh.exe.config
+C:\Users\john\Desktop\visual studio\github\Syntagh\bin\Debug\Syntagh.exe
+C:\Users\john\Desktop\visual studio\github\Syntagh\bin\Debug\Syntagh.pdb
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csprojAssemblyReference.cache
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form1.resources
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form2.resources
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form3.resources
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form4.resources
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Properties.Resources.resources
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.GenerateResource.cache
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.exe
+C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.pdb

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Syntagh
 {
-    public partial class Form5 : Form
+    public partial class diagnwsh : Form
     {
-        public Form5()
+        public diagnwsh()
         {
             InitializeComponent();
         }

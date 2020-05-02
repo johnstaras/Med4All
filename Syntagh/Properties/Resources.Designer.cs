@@ -63,9 +63,39 @@ namespace Syntagh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap τελικοαμαν {
+        internal static System.Drawing.Bitmap set_doctor_cartoon_characters_medical_staff_team_concept_hospital_36082_551 {
             get {
-                object obj = ResourceManager.GetObject("τελικοαμαν", resourceCulture);
+                object obj = ResourceManager.GetObject("set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap set_doctor_cartoon_characters_medical_staff_team_concept_hospital_36082_5511 {
+            get {
+                object obj = ResourceManager.GetObject("set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-5511", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap αρχείο_λήψης {
+            get {
+                object obj = ResourceManager.GetObject("αρχείο λήψης", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap αρχείο_λήψης__1_ {
+            get {
+                object obj = ResourceManager.GetObject("αρχείο λήψης (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

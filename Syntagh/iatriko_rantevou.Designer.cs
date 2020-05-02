@@ -30,40 +30,29 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(iatriko_rantevou));
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.label9 = new System.Windows.Forms.Label();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.button9 = new System.Windows.Forms.Button();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.button15 = new System.Windows.Forms.Button();
-            this.listBox2 = new System.Windows.Forms.ListBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.button16 = new System.Windows.Forms.Button();
-            this.listBox3 = new System.Windows.Forms.ListBox();
-            this.label5 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel10 = new System.Windows.Forms.Panel();
             this.button17 = new System.Windows.Forms.Button();
             this.listBox4 = new System.Windows.Forms.ListBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.button16 = new System.Windows.Forms.Button();
+            this.listBox3 = new System.Windows.Forms.ListBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.button15 = new System.Windows.Forms.Button();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.button9 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.button8 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
@@ -71,21 +60,28 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button11 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.panel5.SuspendLayout();
+            this.panel10.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel7.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panel1.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panel9.SuspendLayout();
-            this.panel10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // panel5
@@ -104,208 +100,61 @@
             this.panel5.Size = new System.Drawing.Size(1090, 422);
             this.panel5.TabIndex = 50;
             // 
-            // label11
+            // label7
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(587, 2);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(66, 20);
-            this.label11.TabIndex = 10;
-            this.label11.Text = "Βήμα 3";
-            this.label11.Click += new System.EventHandler(this.label11_Click);
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(898, 2);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(66, 20);
+            this.label7.TabIndex = 18;
+            this.label7.Text = "Βήμα 4";
             // 
-            // label10
+            // panel10
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(312, 2);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(66, 20);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "Βήμα 2";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
+            this.panel10.BackColor = System.Drawing.Color.Crimson;
+            this.panel10.Controls.Add(this.button17);
+            this.panel10.Controls.Add(this.listBox4);
+            this.panel10.Controls.Add(this.label6);
+            this.panel10.Location = new System.Drawing.Point(822, 25);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(230, 247);
+            this.panel10.TabIndex = 17;
             // 
-            // label8
+            // button17
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(72, 2);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(66, 20);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "Βήμα 1";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+            this.button17.Location = new System.Drawing.Point(80, 211);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(75, 23);
+            this.button17.TabIndex = 16;
+            this.button17.Text = "ΕΠΙΛΟΓΗ";
+            this.button17.UseVisualStyleBackColor = true;
             // 
-            // panel8
+            // listBox4
             // 
-            this.panel8.BackColor = System.Drawing.Color.DarkOrange;
-            this.panel8.Controls.Add(this.button9);
-            this.panel8.Controls.Add(this.listBox1);
-            this.panel8.Controls.Add(this.label9);
-            this.panel8.Location = new System.Drawing.Point(9, 25);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(202, 247);
-            this.panel8.TabIndex = 7;
+            this.listBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox4.FormattingEnabled = true;
+            this.listBox4.ItemHeight = 20;
+            this.listBox4.Items.AddRange(new object[] {
+            "10/5/20 ΠΑΡΑΣΚΕΥΗ 11:00",
+            "12/5/20 ΔΕΥΤΕΡΑ 10:00",
+            "8/5/20 ΤΡΙΤΗ 20:00",
+            "9/5/20 ΤΕΤΑΡΤΗ 17:00"});
+            this.listBox4.Location = new System.Drawing.Point(3, 38);
+            this.listBox4.Name = "listBox4";
+            this.listBox4.Size = new System.Drawing.Size(224, 164);
+            this.listBox4.TabIndex = 15;
             // 
-            // label9
+            // label6
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(47, 15);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 20);
-            this.label9.TabIndex = 0;
-            this.label9.Text = "ΚΑΤΗΓΟΡΙΕΣ";
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.panel1.Controls.Add(this.pictureBox2);
-            this.panel1.Controls.Add(this.panel2);
-            this.panel1.Controls.Add(this.button8);
-            this.panel1.Controls.Add(this.button7);
-            this.panel1.Controls.Add(this.button6);
-            this.panel1.Controls.Add(this.button5);
-            this.panel1.Controls.Add(this.button4);
-            this.panel1.Controls.Add(this.button3);
-            this.panel1.Controls.Add(this.button2);
-            this.panel1.Controls.Add(this.panel3);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel1.Location = new System.Drawing.Point(0, 47);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 714);
-            this.panel1.TabIndex = 39;
-            // 
-            // panel2
-            // 
-            this.panel2.Location = new System.Drawing.Point(199, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1073, 63);
-            this.panel2.TabIndex = 9;
-            // 
-            // panel3
-            // 
-            this.panel3.Location = new System.Drawing.Point(199, 221);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1091, 102);
-            this.panel3.TabIndex = 0;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Harlow Solid Italic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label2.Location = new System.Drawing.Point(629, 175);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(158, 24);
-            this.label2.TabIndex = 29;
-            this.label2.Text = "για όλα για όλους";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Harlow Solid Italic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(661, 151);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(65, 24);
-            this.label1.TabIndex = 28;
-            this.label1.Text = "Υγεία ";
-            // 
-            // panel4
-            // 
-            this.panel4.BackColor = System.Drawing.Color.AntiqueWhite;
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel4.Location = new System.Drawing.Point(0, 0);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1284, 47);
-            this.panel4.TabIndex = 40;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label3.Location = new System.Drawing.Point(223, 28);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(304, 24);
-            this.label3.TabIndex = 45;
-            this.label3.Text = "ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΓΙΑ ΝΕΑ";
-            // 
-            // listBox1
-            // 
-            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 20;
-            this.listBox1.Items.AddRange(new object[] {
-            "ΚΑΡΔΙΟΛΟΓΟΣ",
-            "ΠΝΕΥΜΟΝΟΛΟΓΟΣ",
-            "ΠΑΘΟΛΟΓΟΣ",
-            "ΠΑΙΔΙΑΤΡΟΣ",
-            "ΟΥΡΟΛΟΓΟΣ",
-            "ΟΔΟΝΤΙΑΤΡΟΣ"});
-            this.listBox1.Location = new System.Drawing.Point(3, 38);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(196, 164);
-            this.listBox1.TabIndex = 15;
-            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
-            // 
-            // button9
-            // 
-            this.button9.Location = new System.Drawing.Point(54, 211);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 23);
-            this.button9.TabIndex = 16;
-            this.button9.Text = "ΕΠΙΛΟΓΗ";
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.panel7.Controls.Add(this.button15);
-            this.panel7.Controls.Add(this.listBox2);
-            this.panel7.Controls.Add(this.label4);
-            this.panel7.Location = new System.Drawing.Point(236, 25);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(202, 247);
-            this.panel7.TabIndex = 15;
-            // 
-            // button15
-            // 
-            this.button15.Location = new System.Drawing.Point(67, 211);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(75, 23);
-            this.button15.TabIndex = 16;
-            this.button15.Text = "ΕΠΙΛΟΓΗ";
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // listBox2
-            // 
-            this.listBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 20;
-            this.listBox2.Items.AddRange(new object[] {
-            "ΝΑΚΟΣ\t",
-            "ΜΙΧΟΣ",
-            "ΣΤΑΡΑΣ",
-            "ΓΚΟΤΣΟΥΛΙΑΣ",
-            "ΤΣΩΛΑΣ"});
-            this.listBox2.Location = new System.Drawing.Point(3, 38);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(196, 164);
-            this.listBox2.TabIndex = 15;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(16, 15);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(164, 20);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "ΟΝΟΜΑΤΑ ΙΑΤΡΩΝ";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(16, 15);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(207, 20);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "ΔΙΑΘΕΣΙΜΑ ΡΑΝΤΕΒΟΥ";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // panel9
             // 
@@ -360,133 +209,152 @@
             this.label5.Text = "ΠΡΟΦΙΛ ΙΑΤΡΟΥ";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
-            // panel10
+            // panel7
             // 
-            this.panel10.BackColor = System.Drawing.Color.Crimson;
-            this.panel10.Controls.Add(this.button17);
-            this.panel10.Controls.Add(this.listBox4);
-            this.panel10.Controls.Add(this.label6);
-            this.panel10.Location = new System.Drawing.Point(822, 25);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(230, 247);
-            this.panel10.TabIndex = 17;
+            this.panel7.BackColor = System.Drawing.Color.DarkOliveGreen;
+            this.panel7.Controls.Add(this.button15);
+            this.panel7.Controls.Add(this.listBox2);
+            this.panel7.Controls.Add(this.label4);
+            this.panel7.Location = new System.Drawing.Point(236, 25);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(202, 247);
+            this.panel7.TabIndex = 15;
             // 
-            // button17
+            // button15
             // 
-            this.button17.Location = new System.Drawing.Point(80, 211);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(75, 23);
-            this.button17.TabIndex = 16;
-            this.button17.Text = "ΕΠΙΛΟΓΗ";
-            this.button17.UseVisualStyleBackColor = true;
+            this.button15.Location = new System.Drawing.Point(67, 211);
+            this.button15.Name = "button15";
+            this.button15.Size = new System.Drawing.Size(75, 23);
+            this.button15.TabIndex = 16;
+            this.button15.Text = "ΕΠΙΛΟΓΗ";
+            this.button15.UseVisualStyleBackColor = true;
             // 
-            // listBox4
+            // listBox2
             // 
-            this.listBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox4.FormattingEnabled = true;
-            this.listBox4.ItemHeight = 20;
-            this.listBox4.Items.AddRange(new object[] {
-            "10/5/20 ΠΑΡΑΣΚΕΥΗ 11:00",
-            "12/5/20 ΔΕΥΤΕΡΑ 10:00",
-            "8/5/20 ΤΡΙΤΗ 20:00",
-            "9/5/20 ΤΕΤΑΡΤΗ 17:00"});
-            this.listBox4.Location = new System.Drawing.Point(3, 38);
-            this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(224, 164);
-            this.listBox4.TabIndex = 15;
+            this.listBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 20;
+            this.listBox2.Items.AddRange(new object[] {
+            "ΝΑΚΟΣ\t",
+            "ΜΙΧΟΣ",
+            "ΣΤΑΡΑΣ",
+            "ΓΚΟΤΣΟΥΛΙΑΣ",
+            "ΤΣΩΛΑΣ"});
+            this.listBox2.Location = new System.Drawing.Point(3, 38);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(196, 164);
+            this.listBox2.TabIndex = 15;
             // 
-            // label6
+            // label4
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(16, 15);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(207, 20);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "ΔΙΑΘΕΣΙΜΑ ΡΑΝΤΕΒΟΥ";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(16, 15);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(164, 20);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "ΟΝΟΜΑΤΑ ΙΑΤΡΩΝ";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // label7
+            // label11
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(898, 2);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(66, 20);
-            this.label7.TabIndex = 18;
-            this.label7.Text = "Βήμα 4";
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(587, 2);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(66, 20);
+            this.label11.TabIndex = 10;
+            this.label11.Text = "Βήμα 3";
+            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
-            // pictureBox5
+            // label10
             // 
-            this.pictureBox5.Image = global::Syntagh.Properties.Resources.set_doctor_cartoon_characters_medical_staff_team_concept_hospital_36082_551;
-            this.pictureBox5.Location = new System.Drawing.Point(934, 198);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(345, 188);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox5.TabIndex = 53;
-            this.pictureBox5.TabStop = false;
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(312, 2);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(66, 20);
+            this.label10.TabIndex = 9;
+            this.label10.Text = "Βήμα 2";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
-            // pictureBox4
+            // label8
             // 
-            this.pictureBox4.Image = global::Syntagh.Properties.Resources.αρχείο_λήψης__1_;
-            this.pictureBox4.Location = new System.Drawing.Point(652, 202);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(276, 184);
-            this.pictureBox4.TabIndex = 52;
-            this.pictureBox4.TabStop = false;
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(72, 2);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(66, 20);
+            this.label8.TabIndex = 8;
+            this.label8.Text = "Βήμα 1";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
-            // pictureBox3
+            // panel8
             // 
-            this.pictureBox3.Image = global::Syntagh.Properties.Resources.αρχείο_λήψης;
-            this.pictureBox3.Location = new System.Drawing.Point(202, 202);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(444, 184);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 51;
-            this.pictureBox3.TabStop = false;
+            this.panel8.BackColor = System.Drawing.Color.DarkOrange;
+            this.panel8.Controls.Add(this.button9);
+            this.panel8.Controls.Add(this.listBox1);
+            this.panel8.Controls.Add(this.label9);
+            this.panel8.Location = new System.Drawing.Point(9, 25);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(202, 247);
+            this.panel8.TabIndex = 7;
             // 
-            // pictureBox1
+            // button9
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Tan;
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(611, 47);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(176, 101);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 27;
-            this.pictureBox1.TabStop = false;
+            this.button9.Location = new System.Drawing.Point(54, 211);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(75, 23);
+            this.button9.TabIndex = 16;
+            this.button9.Text = "ΕΠΙΛΟΓΗ";
+            this.button9.UseVisualStyleBackColor = true;
             // 
-            // button11
+            // listBox1
             // 
-            this.button11.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button11.FlatAppearance.BorderSize = 0;
-            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button11.Font = new System.Drawing.Font("Harlow Solid Italic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
-            this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button11.Location = new System.Drawing.Point(443, 79);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(45, 50);
-            this.button11.TabIndex = 48;
-            this.button11.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button11.UseVisualStyleBackColor = true;
+            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 20;
+            this.listBox1.Items.AddRange(new object[] {
+            "ΚΑΡΔΙΟΛΟΓΟΣ",
+            "ΠΝΕΥΜΟΝΟΛΟΓΟΣ",
+            "ΠΑΘΟΛΟΓΟΣ",
+            "ΠΑΙΔΙΑΤΡΟΣ",
+            "ΟΥΡΟΛΟΓΟΣ",
+            "ΟΔΟΝΤΙΑΤΡΟΣ"});
+            this.listBox1.Location = new System.Drawing.Point(3, 38);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(196, 164);
+            this.listBox1.TabIndex = 15;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
-            // button10
+            // label9
             // 
-            this.button10.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button10.FlatAppearance.BorderSize = 0;
-            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button10.Font = new System.Drawing.Font("Harlow Solid Italic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
-            this.button10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button10.Location = new System.Drawing.Point(344, 79);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(45, 50);
-            this.button10.TabIndex = 47;
-            this.button10.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.button10.UseVisualStyleBackColor = true;
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(47, 15);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(120, 20);
+            this.label9.TabIndex = 0;
+            this.label9.Text = "ΚΑΤΗΓΟΡΙΕΣ";
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.panel1.Controls.Add(this.pictureBox2);
+            this.panel1.Controls.Add(this.panel2);
+            this.panel1.Controls.Add(this.button8);
+            this.panel1.Controls.Add(this.button7);
+            this.panel1.Controls.Add(this.button6);
+            this.panel1.Controls.Add(this.button5);
+            this.panel1.Controls.Add(this.button4);
+            this.panel1.Controls.Add(this.button3);
+            this.panel1.Controls.Add(this.button2);
+            this.panel1.Controls.Add(this.panel3);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel1.Location = new System.Drawing.Point(0, 47);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(200, 714);
+            this.panel1.TabIndex = 39;
             // 
             // pictureBox2
             // 
@@ -495,6 +363,13 @@
             this.pictureBox2.Size = new System.Drawing.Size(1091, 141);
             this.pictureBox2.TabIndex = 10;
             this.pictureBox2.TabStop = false;
+            // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(199, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1073, 63);
+            this.panel2.TabIndex = 9;
             // 
             // button8
             // 
@@ -587,6 +462,98 @@
             this.button2.Text = "Άρθρα";
             this.button2.UseVisualStyleBackColor = false;
             // 
+            // panel3
+            // 
+            this.panel3.Location = new System.Drawing.Point(199, 221);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1091, 102);
+            this.panel3.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Harlow Solid Italic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label2.Location = new System.Drawing.Point(629, 175);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(158, 24);
+            this.label2.TabIndex = 29;
+            this.label2.Text = "για όλα για όλους";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Harlow Solid Italic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(661, 151);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(65, 24);
+            this.label1.TabIndex = 28;
+            this.label1.Text = "Υγεία ";
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.AntiqueWhite;
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(1284, 47);
+            this.panel4.TabIndex = 40;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label3.Location = new System.Drawing.Point(223, 28);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(304, 24);
+            this.label3.TabIndex = 45;
+            this.label3.Text = "ΑΚΟΛΟΥΘΗΣΤΕ ΜΑΣ ΓΙΑ ΝΕΑ";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Tan;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(611, 47);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(176, 101);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 27;
+            this.pictureBox1.TabStop = false;
+            // 
+            // button11
+            // 
+            this.button11.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.button11.FlatAppearance.BorderSize = 0;
+            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button11.Font = new System.Drawing.Font("Harlow Solid Italic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button11.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button11.Image = ((System.Drawing.Image)(resources.GetObject("button11.Image")));
+            this.button11.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button11.Location = new System.Drawing.Point(443, 79);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(45, 50);
+            this.button11.TabIndex = 48;
+            this.button11.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button11.UseVisualStyleBackColor = true;
+            // 
+            // button10
+            // 
+            this.button10.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.button10.FlatAppearance.BorderSize = 0;
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Font = new System.Drawing.Font("Harlow Solid Italic", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
+            this.button10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button10.Location = new System.Drawing.Point(344, 79);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(45, 50);
+            this.button10.TabIndex = 47;
+            this.button10.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button10.UseVisualStyleBackColor = true;
+            // 
             // button14
             // 
             this.button14.Anchor = System.Windows.Forms.AnchorStyles.Left;
@@ -652,17 +619,24 @@
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Image = global::Syntagh.Properties.Resources.set_doctor_cartoon_characters_medical_staff_team_concept_hospital_36082_5511;
+            this.pictureBox3.Location = new System.Drawing.Point(272, 272);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox3.TabIndex = 51;
+            this.pictureBox3.TabStop = false;
+            // 
             // iatriko_rantevou
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1284, 761);
-            this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pictureBox4);
+            this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button11);
@@ -680,20 +654,18 @@
             this.Load += new System.EventHandler(this.iatriko_rantevou_Load);
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
             this.panel1.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.panel9.ResumeLayout(false);
-            this.panel9.PerformLayout();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -745,7 +717,5 @@
         private System.Windows.Forms.ListBox listBox4;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.PictureBox pictureBox5;
     }
 }

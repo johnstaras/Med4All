@@ -394,7 +394,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::Syntagh.Properties.Resources.τελικοαμαν;
             this.pictureBox2.Location = new System.Drawing.Point(218, 259);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(1095, 148);

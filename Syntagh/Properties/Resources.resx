@@ -46,7 +46,7 @@
     
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
-            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
@@ -60,6 +60,7 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -68,9 +69,10 @@
               <xsd:sequence>
                 <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="name" use="required" type="xsd:string" />
               <xsd:attribute name="type" type="xsd:string" />
               <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
@@ -85,9 +87,10 @@
                 <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
                 <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
               <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
               <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
@@ -109,9 +112,73 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="silver-laptop-beside-analog-camera-and-camera-lens-37591081" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-laptop-beside-analog-camera-and-camera-lens-37591081.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="87-872619_call-recording-call-record-icon-png-transparent-png.png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\87-872619_call-recording-call-record-icon-png-transparent-png.png.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-374029641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-374029641.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-37402962" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-37402962.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Annotation 2020-05-02 2223311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Annotation 2020-05-02 2223311.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Annotation 2020-05-02 2223312" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Annotation 2020-05-02 2223312.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-laptop-beside-analog-camera-and-camera-lens-37591082" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-laptop-beside-analog-camera-and-camera-lens-37591082.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-3740296" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-3740296.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-37402964" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-37402964.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NicePng_skyrim-special-edition-logo_3576881" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NicePng_skyrim-special-edition-logo_3576881.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-37402963" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-37402963.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hiclipart1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hiclipart.com1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="laptop-and-coffee-3184464(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\laptop-and-coffee-3184464(1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-laptop-beside-analog-camera-and-camera-lens-3759108" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-laptop-beside-analog-camera-and-camera-lens-3759108.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-37402961" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-37402961.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="laptop-and-coffee-3184464" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\laptop-and-coffee-3184464.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hiclipart.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hiclipart.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NicePng_youtube-icon-png_10087079" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NicePng_youtube-icon-png_10087079.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-374029642" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-374029642.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Annotation 2020-05-02 222331" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Annotation 2020-05-02 222331.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silver-imac-on-white-wooden-desk-374029643" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\silver-imac-on-white-wooden-desk-374029643.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -76,6 +76,12 @@
     <Compile Include="diagnwsh.Designer.cs">
       <DependentUpon>diagnwsh.cs</DependentUpon>
     </Compile>
+    <Compile Include="epikoinonia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="epikoinonia.Designer.cs">
+      <DependentUpon>epikoinonia.cs</DependentUpon>
+    </Compile>
     <Compile Include="paradeigma.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +105,9 @@
     <EmbeddedResource Include="diagnwsh.resx">
       <DependentUpon>diagnwsh.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="epikoinonia.resx">
+      <DependentUpon>epikoinonia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="paradeigma.resx">
       <DependentUpon>paradeigma.cs</DependentUpon>
     </EmbeddedResource>
@@ -110,6 +119,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -123,6 +133,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hiclipart.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hiclipart.com1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NicePng_youtube-icon-png_10087079.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\87-872619_call-recording-call-record-icon-png-transparent-png.png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NicePng_skyrim-special-edition-logo_3576881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop-and-coffee-3184464%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop-and-coffee-3184464.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

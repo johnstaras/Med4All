@@ -70,23 +70,17 @@
     <Compile Include="Form4.Designer.cs">
       <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
-    <Compile Include="diagnwsh.cs">
+    <Compile Include="Form5.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="diagnwsh.Designer.cs">
-      <DependentUpon>diagnwsh.cs</DependentUpon>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
-    <Compile Include="epikoinonia.cs">
+    <Compile Include="iatriko_rantevou.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="epikoinonia.Designer.cs">
-      <DependentUpon>epikoinonia.cs</DependentUpon>
-    </Compile>
-    <Compile Include="paradeigma.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="paradeigma.Designer.cs">
-      <DependentUpon>paradeigma.cs</DependentUpon>
+    <Compile Include="iatriko_rantevou.Designer.cs">
+      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -102,14 +96,11 @@
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="diagnwsh.resx">
-      <DependentUpon>diagnwsh.cs</DependentUpon>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="epikoinonia.resx">
-      <DependentUpon>epikoinonia.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="paradeigma.resx">
-      <DependentUpon>paradeigma.cs</DependentUpon>
+    <EmbeddedResource Include="iatriko_rantevou.resx">
+      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -135,25 +126,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\hiclipart.com.png" />
+    <None Include="Resources\αρχείο λήψης.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\hiclipart.com1.png" />
+    <None Include="Resources\αρχείο λήψης %281%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\NicePng_youtube-icon-png_10087079.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\87-872619_call-recording-call-record-icon-png-transparent-png.png.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\NicePng_skyrim-special-edition-logo_3576881.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\laptop-and-coffee-3184464%281%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\laptop-and-coffee-3184464.jpg" />
+    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -63,9 +63,9 @@ namespace Syntagh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _87_872619_call_recording_call_record_icon_png_transparent_png_png {
+        internal static System.Drawing.Bitmap set_doctor_cartoon_characters_medical_staff_team_concept_hospital_36082_551 {
             get {
-                object obj = ResourceManager.GetObject("87-872619_call-recording-call-record-icon-png-transparent-png.png", resourceCulture);
+                object obj = ResourceManager.GetObject("set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Syntagh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Annotation_2020_05_02_222331 {
+        internal static System.Drawing.Bitmap αρχείο_λήψης {
             get {
-                object obj = ResourceManager.GetObject("Annotation 2020-05-02 222331", resourceCulture);
+                object obj = ResourceManager.GetObject("αρχείο λήψης", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,189 +83,9 @@ namespace Syntagh.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Annotation_2020_05_02_2223311 {
+        internal static System.Drawing.Bitmap αρχείο_λήψης__1_ {
             get {
-                object obj = ResourceManager.GetObject("Annotation 2020-05-02 2223311", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Annotation_2020_05_02_2223312 {
-            get {
-                object obj = ResourceManager.GetObject("Annotation 2020-05-02 2223312", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap hiclipart_com {
-            get {
-                object obj = ResourceManager.GetObject("hiclipart.com", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap hiclipart1 {
-            get {
-                object obj = ResourceManager.GetObject("hiclipart1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap laptop_and_coffee_3184464 {
-            get {
-                object obj = ResourceManager.GetObject("laptop-and-coffee-3184464", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap laptop_and_coffee_3184464_1_ {
-            get {
-                object obj = ResourceManager.GetObject("laptop-and-coffee-3184464(1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap NicePng_skyrim_special_edition_logo_3576881 {
-            get {
-                object obj = ResourceManager.GetObject("NicePng_skyrim-special-edition-logo_3576881", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap NicePng_youtube_icon_png_10087079 {
-            get {
-                object obj = ResourceManager.GetObject("NicePng_youtube-icon-png_10087079", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_3740296 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-3740296", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_37402961 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-37402961", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_37402962 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-37402962", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_37402963 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-37402963", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_37402964 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-37402964", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_374029641 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-374029641", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_374029642 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-374029642", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_imac_on_white_wooden_desk_374029643 {
-            get {
-                object obj = ResourceManager.GetObject("silver-imac-on-white-wooden-desk-374029643", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_laptop_beside_analog_camera_and_camera_lens_3759108 {
-            get {
-                object obj = ResourceManager.GetObject("silver-laptop-beside-analog-camera-and-camera-lens-3759108", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_laptop_beside_analog_camera_and_camera_lens_37591081 {
-            get {
-                object obj = ResourceManager.GetObject("silver-laptop-beside-analog-camera-and-camera-lens-37591081", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap silver_laptop_beside_analog_camera_and_camera_lens_37591082 {
-            get {
-                object obj = ResourceManager.GetObject("silver-laptop-beside-analog-camera-and-camera-lens-37591082", resourceCulture);
+                object obj = ResourceManager.GetObject("αρχείο λήψης (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

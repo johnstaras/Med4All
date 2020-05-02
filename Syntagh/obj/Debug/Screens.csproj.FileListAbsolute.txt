@@ -11,21 +11,4 @@ C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.Gene
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.CoreCompileInputs.cache
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.pdb
-C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.diagnwsh.resources
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form5.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\bin\Debug\Syntagh.exe.config
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\bin\Debug\Syntagh.exe
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\bin\Debug\Syntagh.pdb
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Screens.csprojAssemblyReference.cache
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.Form1.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.Form2.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.Form3.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.Form4.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.diagnwsh.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.epikoinonia.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.paradeigma.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.Properties.Resources.resources
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Screens.csproj.GenerateResource.cache
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Screens.csproj.CoreCompileInputs.cache
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.exe
-C:\Users\Gotsoulias\Desktop\code\Med4All\Syntagh\obj\Debug\Syntagh.pdb

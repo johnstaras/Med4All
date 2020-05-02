@@ -623,7 +623,7 @@
             // diagnwsh
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1300, 800);
+            this.ClientSize = new System.Drawing.Size(1293, 800);
             this.Controls.Add(this.panel6);
             this.Controls.Add(this.button14);
             this.Controls.Add(this.button13);

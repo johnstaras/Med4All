@@ -135,7 +135,7 @@
     <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\τελικοαμαν.jpg" />
+    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-5511.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

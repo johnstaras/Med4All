@@ -12,7 +12,6 @@ C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.Core
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.pdb
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form5.resources
-C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csprojAssemblyReference.cache
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form1.resources
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form2.resources
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form3.resources
@@ -23,3 +22,8 @@ C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csproj.GenerateResourc
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.pdb
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.diagnwsh.resources
+C:\Users\john\Desktop\github3.5\Syntagh\bin\Debug\Syntagh.exe.config
+C:\Users\john\Desktop\github3.5\Syntagh\bin\Debug\Syntagh.exe
+C:\Users\john\Desktop\github3.5\Syntagh\bin\Debug\Syntagh.pdb
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Properties.Resources.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csproj.CoreCompileInputs.cache

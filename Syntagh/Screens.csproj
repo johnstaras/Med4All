@@ -94,6 +94,12 @@
     <Compile Include="iatriko_rantevou_onomata.Designer.cs">
       <DependentUpon>iatriko_rantevou_onomata.cs</DependentUpon>
     </Compile>
+    <Compile Include="iatriko_rantevou_profil_iatrou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iatriko_rantevou_profil_iatrou.Designer.cs">
+      <DependentUpon>iatriko_rantevou_profil_iatrou.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="diagnwsh.resx">
@@ -119,6 +125,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="iatriko_rantevou_onomata.resx">
       <DependentUpon>iatriko_rantevou_onomata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iatriko_rantevou_profil_iatrou.resx">
+      <DependentUpon>iatriko_rantevou_profil_iatrou.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

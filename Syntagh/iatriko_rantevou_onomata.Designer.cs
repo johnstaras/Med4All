@@ -367,7 +367,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(195, 15);
+            this.label9.Location = new System.Drawing.Point(173, 15);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(164, 20);
             this.label9.TabIndex = 0;
@@ -376,7 +376,7 @@
             // 
             // button9
             // 
-            this.button9.BackColor = System.Drawing.Color.YellowGreen;
+            this.button9.BackColor = System.Drawing.Color.Honeydew;
             this.button9.Location = new System.Drawing.Point(436, 285);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(116, 39);
@@ -386,7 +386,7 @@
             // 
             // panel8
             // 
-            this.panel8.BackColor = System.Drawing.Color.Beige;
+            this.panel8.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.panel8.Controls.Add(this.listBox1);
             this.panel8.Controls.Add(this.label9);
             this.panel8.Location = new System.Drawing.Point(237, 22);

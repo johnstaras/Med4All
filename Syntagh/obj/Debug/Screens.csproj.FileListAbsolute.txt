@@ -22,3 +22,4 @@ C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.iatriko_rantevou.resou
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csproj.GenerateResource.cache
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.pdb
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.diagnwsh.resources

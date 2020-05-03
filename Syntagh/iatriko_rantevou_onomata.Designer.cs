@@ -358,7 +358,8 @@
             "ΠΑΘΟΛΟΓΟΣ",
             "ΠΑΙΔΙΑΤΡΟΣ",
             "ΟΥΡΟΛΟΓΟΣ",
-            "ΟΔΟΝΤΙΑΤΡΟΣ"});
+            "ΟΔΟΝΤΙΑΤΡΟΣ",
+            "ΨΥΧΙΑΤΡΟΣΣΣΣΣΣΣΣΣ"});
             this.listBox1.Location = new System.Drawing.Point(3, 38);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(521, 164);

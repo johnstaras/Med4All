@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Syntagh"
+    "\\Syntagh",
+    "\\Syntagh\\Properties"
   ],
-  "SelectedNode": "\\Syntagh\\Form5.cs",
+  "SelectedNode": "\\Syntagh\\Properties\\Resources.resx",
   "PreviewInSolutionExplorer": false
 }

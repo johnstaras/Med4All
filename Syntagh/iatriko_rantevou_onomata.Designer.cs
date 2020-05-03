@@ -434,6 +434,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "iatriko_rantevou_onomata";
             this.Text = "iatriko_rantevou_onomata";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();

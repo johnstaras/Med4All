@@ -11,5 +11,4 @@ C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.Gene
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.CoreCompileInputs.cache
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.pdb
-C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.diagnwsh.resources
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form5.resources

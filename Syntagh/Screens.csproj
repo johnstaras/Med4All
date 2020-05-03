@@ -126,16 +126,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\αρχείο λήψης.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\αρχείο λήψης %281%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-5511.jpg" />
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -30,21 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(iatriko_rantevou));
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.button17 = new System.Windows.Forms.Button();
-            this.listBox4 = new System.Windows.Forms.ListBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.button16 = new System.Windows.Forms.Button();
-            this.listBox3 = new System.Windows.Forms.ListBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.button15 = new System.Windows.Forms.Button();
-            this.listBox2 = new System.Windows.Forms.ListBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.panel8 = new System.Windows.Forms.Panel();
             this.button9 = new System.Windows.Forms.Button();
@@ -72,210 +57,24 @@
             this.button13 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.panel5.SuspendLayout();
-            this.panel10.SuspendLayout();
-            this.panel9.SuspendLayout();
-            this.panel7.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.Tan;
-            this.panel5.Controls.Add(this.label7);
-            this.panel5.Controls.Add(this.panel10);
-            this.panel5.Controls.Add(this.panel9);
-            this.panel5.Controls.Add(this.panel7);
-            this.panel5.Controls.Add(this.label11);
-            this.panel5.Controls.Add(this.label10);
             this.panel5.Controls.Add(this.label8);
             this.panel5.Controls.Add(this.panel8);
             this.panel5.Location = new System.Drawing.Point(197, 392);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1090, 422);
             this.panel5.TabIndex = 50;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(898, 2);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(66, 20);
-            this.label7.TabIndex = 18;
-            this.label7.Text = "Βήμα 4";
-            // 
-            // panel10
-            // 
-            this.panel10.BackColor = System.Drawing.Color.Crimson;
-            this.panel10.Controls.Add(this.button17);
-            this.panel10.Controls.Add(this.listBox4);
-            this.panel10.Controls.Add(this.label6);
-            this.panel10.Location = new System.Drawing.Point(822, 25);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(230, 247);
-            this.panel10.TabIndex = 17;
-            // 
-            // button17
-            // 
-            this.button17.Location = new System.Drawing.Point(80, 211);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(75, 23);
-            this.button17.TabIndex = 16;
-            this.button17.Text = "ΕΠΙΛΟΓΗ";
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // listBox4
-            // 
-            this.listBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox4.FormattingEnabled = true;
-            this.listBox4.ItemHeight = 20;
-            this.listBox4.Items.AddRange(new object[] {
-            "10/5/20 ΠΑΡΑΣΚΕΥΗ 11:00",
-            "12/5/20 ΔΕΥΤΕΡΑ 10:00",
-            "8/5/20 ΤΡΙΤΗ 20:00",
-            "9/5/20 ΤΕΤΑΡΤΗ 17:00"});
-            this.listBox4.Location = new System.Drawing.Point(3, 38);
-            this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(224, 164);
-            this.listBox4.TabIndex = 15;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(16, 15);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(207, 20);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "ΔΙΑΘΕΣΙΜΑ ΡΑΝΤΕΒΟΥ";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
-            // panel9
-            // 
-            this.panel9.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.panel9.Controls.Add(this.button16);
-            this.panel9.Controls.Add(this.listBox3);
-            this.panel9.Controls.Add(this.label5);
-            this.panel9.Location = new System.Drawing.Point(465, 25);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(332, 247);
-            this.panel9.TabIndex = 16;
-            this.panel9.Paint += new System.Windows.Forms.PaintEventHandler(this.panel9_Paint_1);
-            // 
-            // button16
-            // 
-            this.button16.Location = new System.Drawing.Point(126, 208);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(75, 23);
-            this.button16.TabIndex = 16;
-            this.button16.Text = "ΡΑΝΤΕΒΟΥ";
-            this.button16.UseVisualStyleBackColor = true;
-            this.button16.Click += new System.EventHandler(this.button16_Click);
-            // 
-            // listBox3
-            // 
-            this.listBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox3.FormattingEnabled = true;
-            this.listBox3.ItemHeight = 16;
-            this.listBox3.Items.AddRange(new object[] {
-            "ΕΙΔΙΚΟΤΗΤΑ: ΠΑΘΟΛΟΓΟΣ",
-            "ΟΝΟΜΑ: ΜΙΧΟΣ",
-            "ΕΠΙΘΕΤΟ: ΚΩΝ/ΝΟΣ",
-            "ΤΗΛΕΦΩΝΟ: ΧΧΧΧΧΧΧΧΧ ",
-            "ΔΙΕΥΘΥΝΣΗ: ΠΑΠΑ",
-            "ΟΡΟΦΟΣ: 1o",
-            "ΗΜΕΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ: ΔΕΥΕΤΡΑ-ΠΑΡΑΣΕΚΕΥΗ ",
-            "ΩΡΕΣ ΛΕΙΤΟΥΡΓΙΑΣ: 8:00-21:00"});
-            this.listBox3.Location = new System.Drawing.Point(3, 38);
-            this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(326, 164);
-            this.listBox3.TabIndex = 15;
-            this.listBox3.SelectedIndexChanged += new System.EventHandler(this.listBox3_SelectedIndexChanged);
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(101, 15);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(147, 20);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "ΠΡΟΦΙΛ ΙΑΤΡΟΥ";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.panel7.Controls.Add(this.button15);
-            this.panel7.Controls.Add(this.listBox2);
-            this.panel7.Controls.Add(this.label4);
-            this.panel7.Location = new System.Drawing.Point(236, 25);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(202, 247);
-            this.panel7.TabIndex = 15;
-            // 
-            // button15
-            // 
-            this.button15.Location = new System.Drawing.Point(67, 211);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(75, 23);
-            this.button15.TabIndex = 16;
-            this.button15.Text = "ΕΠΙΛΟΓΗ";
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // listBox2
-            // 
-            this.listBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 20;
-            this.listBox2.Items.AddRange(new object[] {
-            "ΝΑΚΟΣ\t",
-            "ΜΙΧΟΣ",
-            "ΣΤΑΡΑΣ",
-            "ΓΚΟΤΣΟΥΛΙΑΣ",
-            "ΤΣΩΛΑΣ"});
-            this.listBox2.Location = new System.Drawing.Point(3, 38);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(196, 164);
-            this.listBox2.TabIndex = 15;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(16, 15);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(164, 20);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "ΟΝΟΜΑΤΑ ΙΑΤΡΩΝ";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(587, 2);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(66, 20);
-            this.label11.TabIndex = 10;
-            this.label11.Text = "Βήμα 3";
-            this.label11.Click += new System.EventHandler(this.label11_Click);
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(299, 3);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(66, 20);
-            this.label10.TabIndex = 9;
-            this.label10.Text = "Βήμα 2";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label8
             // 
@@ -619,14 +418,15 @@
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // button18
+            // pictureBox3
             // 
-            this.button18.Location = new System.Drawing.Point(522, 249);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(75, 23);
-            this.button18.TabIndex = 51;
-            this.button18.Text = "button18";
-            this.button18.UseVisualStyleBackColor = true;
+            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Location = new System.Drawing.Point(426, 202);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(527, 152);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 51;
+            this.pictureBox3.TabStop = false;
             // 
             // iatriko_rantevou
             // 
@@ -634,7 +434,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1284, 761);
-            this.Controls.Add(this.button18);
+            this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel5);
@@ -654,17 +454,12 @@
             this.Load += new System.EventHandler(this.iatriko_rantevou_Load);
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
-            this.panel9.ResumeLayout(false);
-            this.panel9.PerformLayout();
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -673,8 +468,6 @@
         #endregion
 
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.Label label9;
@@ -702,19 +495,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.ListBox listBox2;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Panel panel9;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.ListBox listBox3;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.ListBox listBox4;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Button button18;
+        private System.Windows.Forms.PictureBox pictureBox3;
     }
 }

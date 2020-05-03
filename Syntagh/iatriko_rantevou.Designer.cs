@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(iatriko_rantevou));
             this.panel5 = new System.Windows.Forms.Panel();
-            this.label8 = new System.Windows.Forms.Label();
             this.panel8 = new System.Windows.Forms.Panel();
             this.button9 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
@@ -69,43 +68,32 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.Tan;
-            this.panel5.Controls.Add(this.label8);
+            this.panel5.Controls.Add(this.button9);
             this.panel5.Controls.Add(this.panel8);
             this.panel5.Location = new System.Drawing.Point(197, 392);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(1090, 422);
             this.panel5.TabIndex = 50;
             // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(72, 2);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(66, 20);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "Βήμα 1";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
-            // 
             // panel8
             // 
-            this.panel8.BackColor = System.Drawing.Color.DarkOrange;
-            this.panel8.Controls.Add(this.button9);
+            this.panel8.BackColor = System.Drawing.Color.Beige;
             this.panel8.Controls.Add(this.listBox1);
             this.panel8.Controls.Add(this.label9);
-            this.panel8.Location = new System.Drawing.Point(9, 25);
+            this.panel8.Location = new System.Drawing.Point(237, 22);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(202, 247);
+            this.panel8.Size = new System.Drawing.Size(527, 242);
             this.panel8.TabIndex = 7;
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(54, 211);
+            this.button9.BackColor = System.Drawing.Color.YellowGreen;
+            this.button9.Location = new System.Drawing.Point(436, 285);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 23);
+            this.button9.Size = new System.Drawing.Size(116, 39);
             this.button9.TabIndex = 16;
             this.button9.Text = "ΕΠΙΛΟΓΗ";
-            this.button9.UseVisualStyleBackColor = true;
+            this.button9.UseVisualStyleBackColor = false;
             // 
             // listBox1
             // 
@@ -121,7 +109,7 @@
             "ΟΔΟΝΤΙΑΤΡΟΣ"});
             this.listBox1.Location = new System.Drawing.Point(3, 38);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(196, 164);
+            this.listBox1.Size = new System.Drawing.Size(521, 164);
             this.listBox1.TabIndex = 15;
             this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
@@ -129,7 +117,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(47, 15);
+            this.label9.Location = new System.Drawing.Point(195, 15);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(120, 20);
             this.label9.TabIndex = 0;
@@ -421,9 +409,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(426, 202);
+            this.pictureBox3.Location = new System.Drawing.Point(434, 202);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(527, 152);
+            this.pictureBox3.Size = new System.Drawing.Size(527, 184);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 51;
             this.pictureBox3.TabStop = false;
@@ -453,7 +441,6 @@
             this.Text = "iatriko_rantevou";
             this.Load += new System.EventHandler(this.iatriko_rantevou_Load);
             this.panel5.ResumeLayout(false);
-            this.panel5.PerformLayout();
             this.panel8.ResumeLayout(false);
             this.panel8.PerformLayout();
             this.panel1.ResumeLayout(false);
@@ -468,7 +455,6 @@
         #endregion
 
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button button11;

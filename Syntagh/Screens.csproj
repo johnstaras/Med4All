@@ -70,6 +70,18 @@
     <Compile Include="Form4.Designer.cs">
       <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iatriko_rantevou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iatriko_rantevou.Designer.cs">
+      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -84,6 +96,12 @@
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iatriko_rantevou.resx">
+      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -92,6 +110,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -105,6 +124,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\αρχείο λήψης.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\αρχείο λήψης %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-551.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set-doctor-cartoon-characters-medical-staff-team-concept-hospital_36082-5511.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

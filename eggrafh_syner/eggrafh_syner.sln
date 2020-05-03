@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eggrafh_syner", "eggrafh_syner\eggrafh_syner.csproj", "{D9A46603-8DB8-4268-BB36-F260D1B056A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A46603-8DB8-4268-BB36-F260D1B056A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A46603-8DB8-4268-BB36-F260D1B056A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A46603-8DB8-4268-BB36-F260D1B056A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A46603-8DB8-4268-BB36-F260D1B056A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F88501-9B2D-41C2-9F8B-98E49DB67C16}
+	EndGlobalSection
+EndGlobal

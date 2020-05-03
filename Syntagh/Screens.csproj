@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asfaleia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asfaleia.Designer.cs">
+      <DependentUpon>Asfaleia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diagnwsh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diagnwsh.Designer.cs">
+      <DependentUpon>diagnwsh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="epikoinonia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="epikoinonia.Designer.cs">
+      <DependentUpon>epikoinonia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,6 +102,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="diagnwsh.resx">
+      <DependentUpon>diagnwsh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="epikoinonia.resx">
+      <DependentUpon>epikoinonia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

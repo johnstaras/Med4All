@@ -12,3 +12,13 @@ C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Screens.csproj.Core
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.exe
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.pdb
 C:\Users\john\Desktop\visual studio\github\Syntagh\obj\Debug\Syntagh.Form5.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csprojAssemblyReference.cache
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form1.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form2.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form3.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form4.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.Form5.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.iatriko_rantevou.resources
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Screens.csproj.GenerateResource.cache
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.exe
+C:\Users\john\Desktop\github3.5\Syntagh\obj\Debug\Syntagh.pdb

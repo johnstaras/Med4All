@@ -52,6 +52,7 @@
     <Compile Include="diagnwsh.Designer.cs">
       <DependentUpon>diagnwsh.cs</DependentUpon>
     </Compile>
+    <Compile Include="Farmakopoios.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +83,7 @@
     <Compile Include="Form5.Designer.cs">
       <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Giatros.cs" />
     <Compile Include="iatriko_rantevou.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,6 +110,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="synergates.cs" />
     <Compile Include="test.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
+using System.Drawing.Text;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,11 +8,30 @@ using System.Windows.Forms;
 
 namespace Syntagh
 {
-    public partial class Form2 : Form
+    class Asfaleia
     {
-        public Form2()
+        private string eidos_asfaleias;
+        private string onoma_asfaleias;
+
+        public string get_asfaleies () 
+        
         {
-            InitializeComponent();
+            return this.onoma_asfaleias;
+        
         }
+
+        public bool validate() 
+        {
+            private bool input;
+            input = Console.ReadLine();
+
+            return input;
+        }
+
+
+
+
+
+
     }
 }

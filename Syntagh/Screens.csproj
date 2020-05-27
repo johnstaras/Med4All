@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asfaleia.cs" />
     <Compile Include="diagnwsh.cs">
       <SubType>Form</SubType>
     </Compile>

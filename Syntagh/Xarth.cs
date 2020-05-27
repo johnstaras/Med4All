@@ -16,23 +16,14 @@ namespace Syntagh
         private int arithmos_krousmatwn;
         private string kathgoria_pathogonou;
 
-        public string get_topothesia() 
-        { 
+        public string get_topothesia()
+        {
             private string[] topothesies_onomata_efimereuwn;
-            topothesies_onomata_efimereuwn[0] = this.topothesia_efimereuwn;
+        topothesies_onomata_efimereuwn[0] = this.topothesia_efimereuwn;
             topothesies_onomata_efimereuwn[1] = this.onoma_efimereuwn_farmakeiwn;
 
             return topothesies_onomata_efimereuwn[];
-
-
         }
-
-
-
-
-
-
-
-
-    }
 }
+
+    

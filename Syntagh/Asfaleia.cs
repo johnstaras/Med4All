@@ -20,18 +20,18 @@ namespace Syntagh
         
         }
 
+
+
         public bool validate() 
+        
         {
-            private bool input;
-            input = Console.ReadLine();
+        private bool input;
 
-            return input;
+        input =Console.ReadLine();
+        
+        return InputLanguage;
+        
         }
-
-
-
-
-
-
-    }
+       
+     }
 }

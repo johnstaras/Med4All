@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="aksiologhseis.cs" />
     <Compile Include="Asfaleia.cs" />
     <Compile Include="diagnwsh.cs">
       <SubType>Form</SubType>
@@ -53,6 +54,7 @@
     <Compile Include="diagnwsh.Designer.cs">
       <DependentUpon>diagnwsh.cs</DependentUpon>
     </Compile>
+    <Compile Include="diagnwshclass.cs" />
     <Compile Include="efhmereuwn_farmakeia.cs" />
     <Compile Include="eggrafh_synergath.cs">
       <SubType>Form</SubType>
@@ -118,6 +120,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rantevou.cs" />
     <Compile Include="synergates.cs" />
     <Compile Include="test.cs">
       <SubType>Form</SubType>

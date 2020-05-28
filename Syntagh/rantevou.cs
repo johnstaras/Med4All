@@ -19,9 +19,9 @@ namespace Syntagh
         }
         void create_appointment()
         {
-            onoma_giatrou = this.onoma_giatrou;
-            onoma_pelath = this.onoma_pelath;
-            hmeromhnia_kai_wra = this.hmeromhnia_kai_wra;
+            string giatros = this.onoma_giatrou;
+            string pelaths = this.onoma_pelath;
+            string hmeromhnia_wra = this.hmeromhnia_kai_wra;
         }
         void call_appointment()
         {

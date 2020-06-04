@@ -48,78 +48,80 @@
   <ItemGroup>
     <Compile Include="aksiologhseis.cs" />
     <Compile Include="Asfaleia.cs" />
-    <Compile Include="diagnwsh.cs">
+    <Compile Include="Classes for UI\diagnwsh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="diagnwsh.Designer.cs">
+    <Compile Include="Classes for UI\diagnwsh.Designer.cs">
       <DependentUpon>diagnwsh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\eggrafh_synergath.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\eggrafh_synergath.Designer.cs">
+      <DependentUpon>eggrafh_synergath.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou.Designer.cs">
+      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_hmeres_wres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_hmeres_wres.Designer.cs">
+      <DependentUpon>iatriko_rantevou_hmeres_wres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_onomata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_onomata.Designer.cs">
+      <DependentUpon>iatriko_rantevou_onomata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_profil_iatrou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes for UI\iatriko_rantevou_profil_iatrou.Designer.cs">
+      <DependentUpon>iatriko_rantevou_profil_iatrou.cs</DependentUpon>
     </Compile>
     <Compile Include="diagnwshclass.cs" />
     <Compile Include="efhmereuwn_farmakeia.cs" />
-    <Compile Include="eggrafh_synergath.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="eggrafh_synergath.Designer.cs">
-      <DependentUpon>eggrafh_synergath.cs</DependentUpon>
-    </Compile>
     <Compile Include="epikoinwnia.cs" />
     <Compile Include="Farmakopoios.cs" />
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form4.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form4.Designer.cs">
-      <DependentUpon>Form4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form5.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form5.Designer.cs">
-      <DependentUpon>Form5.cs</DependentUpon>
-    </Compile>
     <Compile Include="Giatros.cs" />
-    <Compile Include="iatriko_rantevou.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="iatriko_rantevou.Designer.cs">
-      <DependentUpon>iatriko_rantevou.cs</DependentUpon>
-    </Compile>
-    <Compile Include="iatriko_rantevou_hmeres_wres.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="iatriko_rantevou_hmeres_wres.Designer.cs">
-      <DependentUpon>iatriko_rantevou_hmeres_wres.cs</DependentUpon>
-    </Compile>
-    <Compile Include="iatriko_rantevou_onomata.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="iatriko_rantevou_onomata.Designer.cs">
-      <DependentUpon>iatriko_rantevou_onomata.cs</DependentUpon>
-    </Compile>
-    <Compile Include="iatriko_rantevou_profil_iatrou.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="iatriko_rantevou_profil_iatrou.Designer.cs">
-      <DependentUpon>iatriko_rantevou_profil_iatrou.cs</DependentUpon>
-    </Compile>
     <Compile Include="logariasmoi.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="paraggelia.cs" />
     <Compile Include="plhrofories.cs" />
     <Compile Include="Program.cs" />
@@ -127,45 +129,39 @@
     <Compile Include="rantevou.cs" />
     <Compile Include="synergates.cs" />
     <Compile Include="Syntagh.cs" />
-    <Compile Include="test.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="test.Designer.cs">
-      <DependentUpon>test.cs</DependentUpon>
-    </Compile>
     <Compile Include="user.cs" />
     <Compile Include="Xarth.cs" />
-    <EmbeddedResource Include="diagnwsh.resx">
+    <EmbeddedResource Include="Classes for UI\diagnwsh.resx">
       <DependentUpon>diagnwsh.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="eggrafh_synergath.resx">
+    <EmbeddedResource Include="Classes for UI\eggrafh_synergath.resx">
       <DependentUpon>eggrafh_synergath.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Classes for UI\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
+    <EmbeddedResource Include="Classes for UI\Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
+    <EmbeddedResource Include="Classes for UI\Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form4.resx">
+    <EmbeddedResource Include="Classes for UI\Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form5.resx">
+    <EmbeddedResource Include="Classes for UI\Form5.resx">
       <DependentUpon>Form5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="iatriko_rantevou.resx">
+    <EmbeddedResource Include="Classes for UI\iatriko_rantevou.resx">
       <DependentUpon>iatriko_rantevou.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="iatriko_rantevou_hmeres_wres.resx">
+    <EmbeddedResource Include="Classes for UI\iatriko_rantevou_hmeres_wres.resx">
       <DependentUpon>iatriko_rantevou_hmeres_wres.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="iatriko_rantevou_onomata.resx">
+    <EmbeddedResource Include="Classes for UI\iatriko_rantevou_onomata.resx">
       <DependentUpon>iatriko_rantevou_onomata.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="iatriko_rantevou_profil_iatrou.resx">
+    <EmbeddedResource Include="Classes for UI\iatriko_rantevou_profil_iatrou.resx">
       <DependentUpon>iatriko_rantevou_profil_iatrou.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -173,9 +169,10 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="test.resx">
-      <DependentUpon>test.cs</DependentUpon>
-    </EmbeddedResource>
+    <None Include=".vs\ProjectSettings.json" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include="bin\Debug\Syntagh.exe.config" />
+    <None Include="obj\Release\Screens.csprojAssemblyReference.cache" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -196,9 +193,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include=".vs\Screens\v16\" />
+    <Folder Include=".vs\Syntagh\v16\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="Classes from class-diagramm\" />
     <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Syntagh.exe" />
+    <Content Include="bin\Debug\Syntagh.pdb" />
     <Content Include="Syntagh.sln" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
